@@ -6,7 +6,7 @@
   <Network>bridge</Network>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://github.com/gbendy/sonarrToRSS/issues/new</Support>
+  <Support>https://github.com/gbendy/sonarrToRSS/issues</Support>
   <Project>https://github.com/gbendy/sonarrToRSS</Project>
   <Overview>Sonarr To RSS is a Sonarr Webhook connection endpoint that streams events to RSS/Atom/JSON feeds and provides a paginated website to browse historical events.</Overview>
   <Category>Downloaders: MediaApp:Other</Category>
